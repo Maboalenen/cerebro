@@ -1,2 +1,2 @@
  # Cerebro
- # Cerebro elasticsearch management interface , developed by Github user lmenezes
+  Cerebro elasticsearch management interface , developed by Github user lmenezes
