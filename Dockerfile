@@ -1,4 +1,5 @@
-# Cerebro Linux  installation 
+# Cerebro installation 
+# Ubuntu:latest 
 $ sudo mkdir /opt/cerebro 
 $ cd /opt/cerebro/
 $ sudo wget https://github.com/lmenezes/cerebro/releases/download/v0.9.2/cerebro-0.9.2.tgz
